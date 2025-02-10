@@ -5,7 +5,7 @@ Projeto criado para simular o controle do ângulo de um servomotor utilizando o 
 ## Vídeo de Demonstração
 
 O vídeo demonstrativo do projeto pode ser encontrado no link abaixo:  
-[Link para o vídeo]()
+[Link para o vídeo](https://youtu.be/EqtT0Uz25nc)
 
 ## Descrição do Projeto
 
